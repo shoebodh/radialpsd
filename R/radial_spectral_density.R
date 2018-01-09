@@ -1,7 +1,7 @@
 #'Computes radially averaged spectral density of a matrix
 #'
 #' @param x a matrix
-#' @param normalize Logical, whether the fft outputs should be normalized, default = TRUE
+#' @param normalized Logical, whether the fft outputs should be normalized, default = TRUE
 #' @param scaled Logical, whether the r_spectrum  should be scaled(0, 1), default = TRUE
 #' @param plot Logical, whether the respectrum output should be ploted, default = TRUE
 #' @export
